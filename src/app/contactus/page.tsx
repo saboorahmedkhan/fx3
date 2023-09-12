@@ -47,7 +47,7 @@ export default function Contactus() {
                             Contact
                         </h2>
                         <p className="leading-relaxed mb-5 text-myblue p-600">
-                            feel free to Contact
+                            Feel free to Contact
                         </p>
                         <div className="relative mb-4">
                             <label htmlFor="name" className="leading-7 text-sm text-myred p-600  hover:text-mylogo">
